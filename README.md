@@ -1,0 +1,1 @@
+This script was designed to accomplish something the Vectra GUI could not. In the Vectra web GUI, you cannot get a list of detections based on a protocol. In this script, you provide the protocol and a list is given.
